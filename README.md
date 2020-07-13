@@ -1,1 +1,1 @@
-# interview-proposals
+# How to fix tech interviews
