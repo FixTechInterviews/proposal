@@ -1,1 +1,3 @@
-# How to fix tech interviews
+# Fix Tech Interviews
+
+Please visit https://fixtechinterviews.com/ to learn more.
