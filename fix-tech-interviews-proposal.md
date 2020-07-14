@@ -9,7 +9,7 @@ If we are to dole out the same exact algorithm and data structure questions duri
 This allows engineers to study once and never again have to prepare for interviews weeks in advance. This also frees up engineer time to spend time learning new technologies instead of regurgitating the same information over and over again.
 
 
-## 2. Use real world examples. <sup>1</sup>
+## 2. Use real world examples.
 Technical portions for interviews should be thoughtful and **relevant**. Don't ask a candidate to implement an LRU cache that at best tests a candidate's knowledge to memorize a formula. How about this approach instead?
 
 **Q:** _Location cookie sizes exceed the maximum allowed size. This happens when users look up too many locations. Each location search results in zip to city cookie mapping for speed. How can this be improved?_
@@ -22,4 +22,6 @@ An interview process often feels like a battle for survival for the interviewee,
 
 ---
 
-<sup>1</sup> Behroozi, Mahnaz & Parnin, Chris & Barik, Titus. (2019). [Hiring is Broken: What Do Developers Say About Technical Interviews?](https://www.researchgate.net/publication/334448588_Hiring_is_Broken_What_Do_Developers_Say_About_Technical_Interviews). 
+### Resources
+
+Behroozi, Mahnaz & Parnin, Chris & Barik, Titus. (2019). [Hiring is Broken: What Do Developers Say About Technical Interviews?](https://www.researchgate.net/publication/334448588_Hiring_is_Broken_What_Do_Developers_Say_About_Technical_Interviews). 
